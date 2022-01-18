@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         bm.setPixel(200, 200, Color.rgb(3, 100, 34));
 
         image.setImageBitmap(bm);
-        System.out.println("Hello");
+        System.out.println("Hi");
 
         button.setOnClickListener( new View.OnClickListener() {
 
